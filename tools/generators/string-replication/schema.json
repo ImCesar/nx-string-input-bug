@@ -1,0 +1,12 @@
+{
+  "cli": "nx",
+  "id": "string-replication",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Library name"
+    }
+  },
+  "required": ["name"]
+}
